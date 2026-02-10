@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I am Jorge Moraga Calvo ⚓ </h1>
-<h3 align="center">I am student in Computer Science, from Chile </h3>
+<h3 align="center">I am graduated in Computer Science, from Chile </h3>
 
 
 ### About Me:
