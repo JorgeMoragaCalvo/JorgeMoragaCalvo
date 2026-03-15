@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Jorge Moraga Calvo</h1>
 <h3 align="center">Backend & AI Developer · Santiago, Chile</h3>
+<p align="center">Bachelor's degree in Computer Engineering from the University of Santiago, Chile (USACH), currently completing my thesis.
+Backend developer with experience in enterprise systems and the development of platforms with applied artificial intelligence.</p>
+
+<p align="center">Currently finishing my thesis: a multi-agent adaptive tutoring system with AI for university courses in Operations Research, built with FastAPI, LangChain, and PostgreSQL.</p>
+
+---
 
 ## 🛠 Stack
  
@@ -46,6 +52,13 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ 
+---
+
+## 💼 Work Experience
+ 
+**Principal Financial Group** — Backend development for financial enterprise systems.
+I work with SQL Server, stored procedures, Spring Boot microservices, and API documentation in critical production environments.
  
 ---
 
